@@ -1,0 +1,30 @@
+{
+  "name": "koa-json-response",
+  "version": "0.0.1",
+  "author": {
+    "name": "Trevor Baron",
+    "url": "http://trevordev.com"
+  },
+  "description": "Easily created json response with status code in koa",
+  "keywords": [
+    "json",
+    "koa",
+    "response"
+  ],
+  "files": [
+    "lib",
+    "README.md"
+  ],
+  "main": "lib/jsonResp.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/TrevorDev/koa-json-response.git"
+  },
+  "dependencies":
+  { 
+  },
+  "engines": {
+    "node": ">=0.11.9"
+  },
+  "readmeFilename": "README.md"
+}
